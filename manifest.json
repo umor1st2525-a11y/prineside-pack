@@ -1,7 +1,7 @@
 {
   "name": "Prineside pack",
   "version": "1.0",
-  "base": "http://YOUR_HOST/pack/",
+  "base": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/",
   "files": [
     {
       "path": "dinput8.dll",
@@ -46,77 +46,92 @@
     {
       "path": "modloader/.data/config.ini.0",
       "size": 977,
-      "sha256": "8d0ad9d6ba4362d270b0d8604d9865cee8ffa185415499327ddd075567a33ebf"
+      "sha256": "8d0ad9d6ba4362d270b0d8604d9865cee8ffa185415499327ddd075567a33ebf",
+      "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/config.ini.0"
     },
     {
       "path": "modloader/.data/modloader.ini.0",
       "size": 1228,
-      "sha256": "4a4f8fc15a496a5e39a9bf3b617685a29e8c7b326a6565514b2d63e5effd8695"
+      "sha256": "4a4f8fc15a496a5e39a9bf3b617685a29e8c7b326a6565514b2d63e5effd8695",
+      "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/modloader.ini.0"
     },
     {
       "path": "modloader/.data/plugins.ini.0",
       "size": 592,
-      "sha256": "2d534da354961d3c285e8cf11545476efd276ccb1d8b314f5f2659185f9c9bdb"
+      "sha256": "2d534da354961d3c285e8cf11545476efd276ccb1d8b314f5f2659185f9c9bdb",
+      "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/plugins.ini.0"
     },
     {
       "path": "modloader/.data/text/1033/menu.fxt",
       "size": 1379,
-      "sha256": "89e38b1ce8136187631fe44f6e15af89a4de9d1a3b926d713c2aabc18319d561"
+      "sha256": "89e38b1ce8136187631fe44f6e15af89a4de9d1a3b926d713c2aabc18319d561",
+      "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/text/1033/menu.fxt"
     },
     {
       "path": "modloader/.data/plugins/gta3/std.asi.dll",
       "size": 292864,
-      "sha256": "f3217d82ac6f036ea6ad7d059cdd2e0b693210f44de55b62cd1c0285864d9c10"
+      "sha256": "f3217d82ac6f036ea6ad7d059cdd2e0b693210f44de55b62cd1c0285864d9c10",
+      "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/plugins/gta3/std.asi.dll"
     },
     {
       "path": "modloader/.data/plugins/gta3/std.bank.dll",
       "size": 269312,
-      "sha256": "cace891a95b87e4a0fb5c886acc69c992cc64fbed495140bf839e4e4655922b1"
+      "sha256": "cace891a95b87e4a0fb5c886acc69c992cc64fbed495140bf839e4e4655922b1",
+      "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/plugins/gta3/std.bank.dll"
     },
     {
       "path": "modloader/.data/plugins/gta3/std.data.dll",
       "size": 3436544,
-      "sha256": "8f11cf187ee86e82b6de233ef29feb1d13e3049ce8960e7a2f7549c51774ba13"
+      "sha256": "8f11cf187ee86e82b6de233ef29feb1d13e3049ce8960e7a2f7549c51774ba13",
+      "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/plugins/gta3/std.data.dll"
     },
     {
       "path": "modloader/.data/plugins/gta3/std.dmaudio.dll",
       "size": 165376,
-      "sha256": "443356fb14a416f44771f82c1ac2a034ba5ebabb14225ce0355cb0f953141c2b"
+      "sha256": "443356fb14a416f44771f82c1ac2a034ba5ebabb14225ce0355cb0f953141c2b",
+      "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/plugins/gta3/std.dmaudio.dll"
     },
     {
       "path": "modloader/.data/plugins/gta3/std.fx.dll",
       "size": 353280,
-      "sha256": "49a178cf6250c7f3aced363438000f1db9d8a5787b55225896965bcb6c618f75"
+      "sha256": "49a178cf6250c7f3aced363438000f1db9d8a5787b55225896965bcb6c618f75",
+      "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/plugins/gta3/std.fx.dll"
     },
     {
       "path": "modloader/.data/plugins/gta3/std.movies.dll",
       "size": 157696,
-      "sha256": "92269636092b8af2c61dbdd9907f9e704745203f5c8b966fd3f2a141e5045e62"
+      "sha256": "92269636092b8af2c61dbdd9907f9e704745203f5c8b966fd3f2a141e5045e62",
+      "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/plugins/gta3/std.movies.dll"
     },
     {
       "path": "modloader/.data/plugins/gta3/std.scm.dll",
       "size": 155648,
-      "sha256": "a24381e1c782f45f69e4bf53811cea22a0b021fe049a72ba106d0396fe4be1c9"
+      "sha256": "a24381e1c782f45f69e4bf53811cea22a0b021fe049a72ba106d0396fe4be1c9",
+      "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/plugins/gta3/std.scm.dll"
     },
     {
       "path": "modloader/.data/plugins/gta3/std.sprites.dll",
       "size": 452096,
-      "sha256": "dc4b337e01792abe63eda4c3a893dc38a83ab304f2730b98353e944557277893"
+      "sha256": "dc4b337e01792abe63eda4c3a893dc38a83ab304f2730b98353e944557277893",
+      "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/plugins/gta3/std.sprites.dll"
     },
     {
       "path": "modloader/.data/plugins/gta3/std.stream.dll",
       "size": 539136,
-      "sha256": "b65afd93c4be2a3d6f4b996a1479a8107cff430938adf0e42336521b395ad196"
+      "sha256": "b65afd93c4be2a3d6f4b996a1479a8107cff430938adf0e42336521b395ad196",
+      "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/plugins/gta3/std.stream.dll"
     },
     {
       "path": "modloader/.data/plugins/gta3/std.text.dll",
       "size": 187904,
-      "sha256": "b44987532eebb4f99e65ba4e5c776ee46a33c80ff8611902dbb7e4ecb5dc6cb8"
+      "sha256": "b44987532eebb4f99e65ba4e5c776ee46a33c80ff8611902dbb7e4ecb5dc6cb8",
+      "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/plugins/gta3/std.text.dll"
     },
     {
       "path": "modloader/.data/plugins/gta3/std.tracks.dll",
       "size": 190464,
-      "sha256": "5d9080075b77d872146318573f97f1de757b32a54aa02600cb33e89c7ba5a052"
+      "sha256": "5d9080075b77d872146318573f97f1de757b32a54aa02600cb33e89c7ba5a052",
+      "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/plugins/gta3/std.tracks.dll"
     }
   ]
 }
