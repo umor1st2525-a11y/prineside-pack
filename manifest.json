@@ -1,6 +1,6 @@
 {
   "name": "Prineside pack",
-  "version": "1.1",
+  "version": "1.3",
   "base": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/",
   "files": [
     {
@@ -44,72 +44,72 @@
       "sha256": "f94b04b8f757d5f4174f3e8c087d817c45724154bdfdc9960f3f8d23c05006cf"
     },
     {
-      "path": "modloader/Prineside Skins/12.dff",
-      "size": 1839572,
-      "sha256": "3a16945b9c1e5c2dcbf82d11d1eb7705fe21befbac00d0e48fda5c3982f33d8f"
-    },
-    {
-      "path": "modloader/Prineside Skins/12.txd",
-      "size": 11534888,
-      "sha256": "728d94cd569528c68e362d8b82304f5af97a62c94e633bb3798eb0a5cd8f13c2"
-    },
-    {
-      "path": "modloader/Prineside Skins/13.dff",
-      "size": 4819819,
-      "sha256": "961c0e7b5461725cacf6e3d405306911ac0cfd4457223d9b88db4da7d3f5c57c"
-    },
-    {
-      "path": "modloader/Prineside Skins/13.txd",
-      "size": 1398304,
-      "sha256": "f14cd4028c8ae714e40dbeb11b64c226cca0b4ba973cca442a90a4bb14266bb9"
-    },
-    {
-      "path": "modloader/Prineside Skins/285.dff",
-      "size": 500151,
-      "sha256": "1fdba896415b3ca3e37f007c7bad822a64dcd88b194fe2055ba5b06760fa336b"
-    },
-    {
-      "path": "modloader/Prineside Skins/285.txd",
-      "size": 792764,
-      "sha256": "4e354e56559b3dff4404f7e845737bc7b1e0af7950ab00770424f2ef3c1948c7"
-    },
-    {
-      "path": "modloader/Prineside Skins/286.dff",
-      "size": 841815,
-      "sha256": "2c70b1895cc8048797669356ea6f0daf17e7b4df9c34af83dc379de2dd91d1d2"
-    },
-    {
-      "path": "modloader/Prineside Skins/286.txd",
-      "size": 1481148,
-      "sha256": "3e0aa8e588cc3ff1a5c229441ec879f9989bd5f583c13bdcb82adc707f3af120"
-    },
-    {
-      "path": "modloader/Prineside Skins/287.dff",
+      "path": "modloader/Prineside Skins/army.dff",
       "size": 974351,
       "sha256": "e7f535f769e544bb3d2481d010145c5a348c816cd70b9c0dda87fbaccfb93730"
     },
     {
-      "path": "modloader/Prineside Skins/287.txd",
+      "path": "modloader/Prineside Skins/army.txd",
       "size": 1112636,
       "sha256": "18fb682659f19dee38ed7b9dfa19539c27e6cb6a3a70d3bb83fa16b917ba4a45"
     },
     {
-      "path": "modloader/Prineside Skins/41.dff",
+      "path": "modloader/Prineside Skins/bfyri.dff",
+      "size": 1839572,
+      "sha256": "3a16945b9c1e5c2dcbf82d11d1eb7705fe21befbac00d0e48fda5c3982f33d8f"
+    },
+    {
+      "path": "modloader/Prineside Skins/bfyri.txd",
+      "size": 11534888,
+      "sha256": "728d94cd569528c68e362d8b82304f5af97a62c94e633bb3798eb0a5cd8f13c2"
+    },
+    {
+      "path": "modloader/Prineside Skins/bfyst.dff",
+      "size": 4819819,
+      "sha256": "961c0e7b5461725cacf6e3d405306911ac0cfd4457223d9b88db4da7d3f5c57c"
+    },
+    {
+      "path": "modloader/Prineside Skins/bfyst.txd",
+      "size": 1398304,
+      "sha256": "f14cd4028c8ae714e40dbeb11b64c226cca0b4ba973cca442a90a4bb14266bb9"
+    },
+    {
+      "path": "modloader/Prineside Skins/fbi.dff",
+      "size": 841815,
+      "sha256": "2c70b1895cc8048797669356ea6f0daf17e7b4df9c34af83dc379de2dd91d1d2"
+    },
+    {
+      "path": "modloader/Prineside Skins/fbi.txd",
+      "size": 1481148,
+      "sha256": "3e0aa8e588cc3ff1a5c229441ec879f9989bd5f583c13bdcb82adc707f3af120"
+    },
+    {
+      "path": "modloader/Prineside Skins/hfyst.dff",
       "size": 4940507,
       "sha256": "c58621878dfa18124489dfa010cb9a79ae12848cf74f9d98d39dc85027a08b87"
     },
     {
-      "path": "modloader/Prineside Skins/41.txd",
+      "path": "modloader/Prineside Skins/hfyst.txd",
       "size": 1398304,
       "sha256": "662e329dec4937f1d85d050c97df3f3b46504ebbf702b59cdb74761062e86aaf"
     },
     {
-      "path": "modloader/Prineside Skins/73.dff",
+      "path": "modloader/Prineside Skins/swat.dff",
+      "size": 500151,
+      "sha256": "1fdba896415b3ca3e37f007c7bad822a64dcd88b194fe2055ba5b06760fa336b"
+    },
+    {
+      "path": "modloader/Prineside Skins/swat.txd",
+      "size": 792764,
+      "sha256": "4e354e56559b3dff4404f7e845737bc7b1e0af7950ab00770424f2ef3c1948c7"
+    },
+    {
+      "path": "modloader/Prineside Skins/swmyhp2.dff",
       "size": 172032,
       "sha256": "a8f2d48ae845cbb55e04cb1cfd74e738cd696789136a2382b6c05c9e57de4bf4"
     },
     {
-      "path": "modloader/Prineside Skins/73.txd",
+      "path": "modloader/Prineside Skins/swmyhp2.txd",
       "size": 329728,
       "sha256": "54cf559a9db917557617f711eff530a36414dee779310a93572d3790e6ead2ec"
     },
@@ -202,6 +202,27 @@
       "size": 190464,
       "sha256": "5d9080075b77d872146318573f97f1de757b32a54aa02600cb33e89c7ba5a052",
       "url": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/modloader_data/plugins/gta3/std.tracks.dll"
+    },
+    {
+      "path": "models/fonts.txd",
+      "size": 2796632,
+      "sha256": "cca63767a8d1310ee3114bae2acb9b1eb308297bbe9475f7cffebdda91702a2a"
     }
+  ],
+  "remove": [
+    "modloader/Prineside Skins/12.dff",
+    "modloader/Prineside Skins/12.txd",
+    "modloader/Prineside Skins/13.dff",
+    "modloader/Prineside Skins/13.txd",
+    "modloader/Prineside Skins/41.dff",
+    "modloader/Prineside Skins/41.txd",
+    "modloader/Prineside Skins/73.dff",
+    "modloader/Prineside Skins/73.txd",
+    "modloader/Prineside Skins/285.dff",
+    "modloader/Prineside Skins/285.txd",
+    "modloader/Prineside Skins/286.dff",
+    "modloader/Prineside Skins/286.txd",
+    "modloader/Prineside Skins/287.dff",
+    "modloader/Prineside Skins/287.txd"
   ]
 }
