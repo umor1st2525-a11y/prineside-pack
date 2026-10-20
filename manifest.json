@@ -1,6 +1,6 @@
 {
   "name": "Prineside pack",
-  "version": "1.3",
+  "version": "1.4",
   "base": "https://raw.githubusercontent.com/umor1st2525-a11y/prineside-pack/main/",
   "files": [
     {
@@ -207,6 +207,156 @@
       "path": "models/fonts.txd",
       "size": 2796632,
       "sha256": "cca63767a8d1310ee3114bae2acb9b1eb308297bbe9475f7cffebdda91702a2a"
+    },
+    {
+      "path": "modloader/Prineside Skins/male01.dff",
+      "size": 873790,
+      "sha256": "81b53233df5f9bcc575c8fdd7c92f851756c1a153cd018db05001c8eec14d720"
+    },
+    {
+      "path": "modloader/Prineside Skins/male01.txd",
+      "size": 23768096,
+      "sha256": "61ef466c0495625a5a4e90d88c38d0fd8eb5f796ffc41ae25895c190a3d68452"
+    },
+    {
+      "path": "modloader/Prineside Skins/gangrl3.dff",
+      "size": 86439,
+      "sha256": "04cc990d42ad7f28718a03af50c2e436ef801c6712cfad3ad7ed534f25a4e011"
+    },
+    {
+      "path": "modloader/Prineside Skins/gangrl3.txd",
+      "size": 8360,
+      "sha256": "5dc954f4172a97723ba1173d9312c925d27f95698aada4607202e0ab923b567a"
+    },
+    {
+      "path": "modloader/Prineside Skins/pulaski.dff",
+      "size": 79363,
+      "sha256": "f36c5ea542a947f769ffca00e1614a7904435bf0b4156b78114a166f1e84efef"
+    },
+    {
+      "path": "modloader/Prineside Skins/pulaski.txd",
+      "size": 8360,
+      "sha256": "2d5ba58508133b11289224aae9d50b9b24da8f2388efaaf929f788929b20024a"
+    },
+    {
+      "path": "modloader/Prineside Skins/hern.dff",
+      "size": 1104246,
+      "sha256": "2110e2be48dcab204e940f4c0d0e81bb2230f2b571884f104183c5a3bff35078"
+    },
+    {
+      "path": "modloader/Prineside Skins/hern.txd",
+      "size": 2164816,
+      "sha256": "bec9666f996bb3203a1fce9aa8687b9c934d916c494a4a9dbf218a409af0bacc"
+    },
+    {
+      "path": "modloader/Prineside Skins/dwayne.dff",
+      "size": 1219618,
+      "sha256": "7c8d01d8e3e767b4e4938aa1d5976f42a1cac3738a5215b75dc4a57c3e76ee23"
+    },
+    {
+      "path": "modloader/Prineside Skins/dwayne.txd",
+      "size": 2848112,
+      "sha256": "3a9dbd11c5439c72b8a1e12db915e104cb2ae5591cc79398a9e9fd7ffd2f44bd"
+    },
+    {
+      "path": "modloader/Prineside Cars/alpha.dff",
+      "size": 4372480,
+      "sha256": "f5d671e1f46099028bc5fc7a96bc094f297c4d9f9580d6fe565bcb1478bb164f"
+    },
+    {
+      "path": "modloader/Prineside Cars/alpha.txd",
+      "size": 3616936,
+      "sha256": "19d7afa10f33b5ff6602bdd3377c77ce04f454a4a2bd0853db23a911098b3e22"
+    },
+    {
+      "path": "modloader/Prineside Cars/bravura.dff",
+      "size": 3809280,
+      "sha256": "dfc2a083ba91d02b7af69fb57c5b42ba495f527302d95323efdf03addc2ba9c3"
+    },
+    {
+      "path": "modloader/Prineside Cars/bravura.txd",
+      "size": 3861260,
+      "sha256": "eaff5b1d0a259b170530e981ae8f64dbb176fd30935eaedf35753c2cdfd98460"
+    },
+    {
+      "path": "modloader/Prineside Cars/bullet.dff",
+      "size": 13815808,
+      "sha256": "9e48d154b370e5e44649e1604d789a9ea4439a6d3add584752758cc24db6f931"
+    },
+    {
+      "path": "modloader/Prineside Cars/bullet.txd",
+      "size": 25142340,
+      "sha256": "ecd94e85016bb24c6ea0dac49744e4370ce90eb59f1af835bfb79f5d9dabe4bb"
+    },
+    {
+      "path": "modloader/Prineside Cars/fortune.dff",
+      "size": 5289984,
+      "sha256": "9bf749c0ae6ab974ef8233577c891a5198a580ec1f7ba8b645194f4466e8492f"
+    },
+    {
+      "path": "modloader/Prineside Cars/fortune.txd",
+      "size": 4032936,
+      "sha256": "79871f257f1e9f469c43741a921e8431c3b61598d4c57840e1f68750bfcf0216"
+    },
+    {
+      "path": "modloader/Prineside Skins/copgrl3.dff",
+      "size": 61928,
+      "sha256": "8f5c8d590d7bf7a4056bcb5031b1f01310fa2b601155a1b65a0a9b0c1f15dd83"
+    },
+    {
+      "path": "modloader/Prineside Skins/copgrl3.txd",
+      "size": 32936,
+      "sha256": "6a324abede297b472124dce2680179dcd0a96e95c05c036b4f5d2e5a87f6bee6"
+    },
+    {
+      "path": "modloader/Prineside Skins/gungrl3.dff",
+      "size": 61928,
+      "sha256": "8f5c8d590d7bf7a4056bcb5031b1f01310fa2b601155a1b65a0a9b0c1f15dd83"
+    },
+    {
+      "path": "modloader/Prineside Skins/gungrl3.txd",
+      "size": 32936,
+      "sha256": "7aee271ddb23b70866d577796e833c2ea3c9fcf5552bdaf4fdc4b8c5241a704d"
+    },
+    {
+      "path": "modloader/Prineside Skins/mecgrl3.dff",
+      "size": 64795,
+      "sha256": "898e2953ae97bd46115798f0b767bc5a395a148a6dbfe7070252b0a16acc06ce"
+    },
+    {
+      "path": "modloader/Prineside Skins/mecgrl3.txd",
+      "size": 32936,
+      "sha256": "8d51bc1a14a654442c690a547e83d58d97fa6690f31d9d5b02ac1be5c5f4f97b"
+    },
+    {
+      "path": "modloader/Prineside Skins/nurgrl3.dff",
+      "size": 86747,
+      "sha256": "cda04f4de40c5c71c8d79cd2715ac96e25d0bbacaa07117fe6c9169eacd2fe95"
+    },
+    {
+      "path": "modloader/Prineside Skins/nurgrl3.txd",
+      "size": 32936,
+      "sha256": "72d9f315c51d707c12e762261b6c80d3fe7a9bdd4ec970e80da6c082c98e87ae"
+    },
+    {
+      "path": "modloader/Prineside Skins/crogrl3.dff",
+      "size": 86747,
+      "sha256": "cda04f4de40c5c71c8d79cd2715ac96e25d0bbacaa07117fe6c9169eacd2fe95"
+    },
+    {
+      "path": "modloader/Prineside Skins/crogrl3.txd",
+      "size": 32936,
+      "sha256": "2fd12754ec402983ced064a32babaca358827a7c9067625467e2517578e27409"
+    },
+    {
+      "path": "modloader/Prineside Skins/tenpen.dff",
+      "size": 86747,
+      "sha256": "cda04f4de40c5c71c8d79cd2715ac96e25d0bbacaa07117fe6c9169eacd2fe95"
+    },
+    {
+      "path": "modloader/Prineside Skins/tenpen.txd",
+      "size": 32936,
+      "sha256": "1b0f14f3b88ca209cd108d917f2d8571792c0628cbf6262f67ac0bfafb049291"
     }
   ],
   "remove": [
